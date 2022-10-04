@@ -1,0 +1,68 @@
+bcrypt                   
+boto3                    
+botocore                 
+# Bottleneck               
+# brotlipy                 
+# certifi                  
+# cffi                     
+# charset-normalizer       
+# click                    
+# conda                    
+# conda-package-handling   
+# cryptography             
+# enum-compat              
+# Flask                    
+future                   
+# gevent                   
+# greenlet                 
+# gunicorn                 
+# idna                     
+# inotify-simple           
+# itsdangerous             
+# Jinja2                   
+# jmespath                 
+# joblib                   
+# MarkupSafe               
+# mlio                     
+# model-archiver           
+# multi-model-server       
+# numexpr                  
+numpy                    
+pandas                   
+paramiko                 
+Pillow                   
+# pip                      
+# protobuf                 
+# psutil                   
+# pyarrow                  
+# pycosat                  
+# pycparser                                   
+# pyOpenSSL                
+# PySocks                  
+python-dateutil          
+# pytz                                      
+retrying                 
+# ruamel-yaml-conda        
+# s3transfer               
+# sagemaker-containers     
+# sagemaker-inference      
+# sagemaker-sklearn-contain-training       
+scikit-learn             
+scipy                    
+setuptools               
+six                      
+threadpoolctl            
+# tqdm                     
+# typing                   
+# typing_extensions        
+urllib3                  
+# Werkzeug                 
+# wheel                    
+# zipp                     
+# zope.event               
+# zope.interface          
+fastparquet
+pyarrow
+
+### Adding tensorflow for the offline inference with the output model
+tensorflow

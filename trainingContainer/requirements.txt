@@ -1,0 +1,9 @@
+tensorflow
+sagemaker
+sagemaker-training
+boto3
+numpy
+keras
+pandas
+sklearn
+argparse
